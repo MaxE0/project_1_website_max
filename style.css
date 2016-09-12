@@ -1,9 +1,8 @@
+@import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+p {
+font-family: 'Baloo Tamma', cursive;  
+}
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-@import 'https://fonts.googleapis.com/css?family=Russo+One);
-p {
-  font-family: Russo One;
-}
