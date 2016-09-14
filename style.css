@@ -2,8 +2,9 @@
 p {
 font-family: 'Baloo Tamma', cursive;
 }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  
+  h1 {
+  color: red;
+}
+p {
+  color: green;
+}
